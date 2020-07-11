@@ -9,4 +9,4 @@ You can learn more about me at my personal website:
 🇺🇸 [talala.info](https://talala.info)
 🇷🇺 [talala.ru](https://talala.ru)
 
-![Workplace](https://github.com/dentalala/dentalala/raw/master/workplace.jpg)
+![Workspace](https://github.com/dentalala/dentalala/raw/master/workspace.jpg)
